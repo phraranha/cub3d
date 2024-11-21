@@ -125,9 +125,3 @@ Defines constants, macros, and all primary structures, such as:
 
 6. **Error Handling**
    - `error_handling.c`: Prints error messages and cleans up resources on failure.
-
----
-
-## Credits
-
-This project was developed as part of the 42 School curriculum. Special thanks to the MLX42 developers and the creators of libft for their essential tools and libraries.
